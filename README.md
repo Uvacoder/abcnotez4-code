@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://brand.zander.wtf/Avatar.png" width="140">
-  <h1>
-    notes.zander.wtf
-  </h1>
+
 
 > Notes on code. My memory bank.
 
